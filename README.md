@@ -4,7 +4,11 @@ Landing page institucional para a **Dra. Simone Sousa Pereira**, Mestre e Doutor
 
 O projeto foi construído com foco em acolhimento, autoridade acadêmica, clareza e conversão, incluindo um e-book gratuito com visualização integrada e download em PDF.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new)
+**Site publicado:** https://dr-simone-ebook-bonus.vercel.app
+
+**Repositório:** https://github.com/joaocastelo1/-dr-simone-ebook-bonus
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fjoaocastelo1%2F-dr-simone-ebook-bonus)
 
 ## Stack
 
@@ -203,6 +207,10 @@ public/
 
 ## Deploy na Vercel
 
+O projeto já está publicado em **https://dr-simone-ebook-bonus.vercel.app** e o repositório está conectado à Vercel: cada push para `main` gera um novo deploy automático.
+
+Para reproduzir o processo do zero:
+
 1. Crie um repositório no GitHub e envie o projeto:
 
 ```bash
@@ -210,7 +218,7 @@ git init
 git add .
 git commit -m "feat: landing page Dra. Simone Sousa Pereira"
 git branch -M main
-git remote add origin https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
+git remote add origin https://github.com/joaocastelo1/-dr-simone-ebook-bonus.git
 git push -u origin main
 ```
 
